@@ -32,9 +32,9 @@ It showcases how to **fine-tune, evaluate, and deploy domain-specific models** e
 📌 Use Case
 
 Organizations often deal with repetitive IT support tickets (e.g., Wi-Fi issues, VPN errors, password resets). Instead of routing these to human agents, a fine-tuned LLM like SupportSage can:
-📨 Automatically respond to support queries with precise, contextual answers
-⚡ Reduce support workload by handling repetitive tickets instantly
-🌍 Be deployed on AWS SageMaker and shared via API for integration into chatbots, helpdesk systems, or internal tools
+- 📨 Automatically respond to support queries with precise, contextual answers
+- ⚡ Reduce support workload by handling repetitive tickets instantly
+- 🌍 Be deployed on AWS SageMaker and shared via API for integration into chatbots, helpdesk systems, or internal tools
 
 This ensures faster resolutions, lower costs, and consistent support quality.
 
@@ -86,7 +86,7 @@ A Colab Notebook is provided in this repo to:
 
 ✅ Training Logs:
 
-![W&B Logs](Training1.png)
+![W&B Logs](screenshots/Training1.png)
 
 ![W&B Logs](training2.png)
 
@@ -108,4 +108,5 @@ A Colab Notebook is provided in this repo to:
 ![Inference](sagemaker-inference.png)
 
 📓 Contributing
+
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
