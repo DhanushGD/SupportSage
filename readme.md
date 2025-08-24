@@ -64,6 +64,7 @@ How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and c
 | ROUGE-2    | **0.0119**  |
 | ROUGE-L    | **0.09184** |
 
+
 ![Evaluation Metrics](screenshots/eval.png)
 
 4️⃣ Upload to Amazon S3
@@ -73,6 +74,8 @@ How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and c
 5️⃣ Deploy Model via AWS SageMaker
 - Used S3 model path in SageMaker deployment script
 - Configured an endpoint for real-time inference
+
+![FLOW](screenshots/Flow.png)
 
 📓 Colab Notebook
 
@@ -100,6 +103,7 @@ A Colab Notebook is provided in this repo to:
 ![GPU Usage](screenshots/GPU usage.png)
 
 ✅ S3 Upload:
+
 ![S3 Files]screenshots/S3.png)
 
 ✅ SageMaker Deployment:
@@ -111,5 +115,6 @@ A Colab Notebook is provided in this repo to:
 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
