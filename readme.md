@@ -87,7 +87,7 @@ A Colab Notebook is provided in this repo to:
 - ✅ Deploy in AWS SageMaker
 - ✅ Evaluate metrics (BLEU, ROUGE, Perplexity)
 
-🔬 Proof-of-Concept (PoC) Metrics
+## 🔬 Proof-of-Concept (PoC) Metrics
 
 ✅ Training Logs:
 
@@ -119,9 +119,10 @@ A Colab Notebook is provided in this repo to:
 
 ![Inference](sagemaker-inference.png)
 
-📓 Contributing
+## 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
