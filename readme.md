@@ -48,6 +48,7 @@ This ensures faster resolutions, lower costs, and consistent support quality.
 question,answer
 How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and click on 'Update' or enable auto-updates in settings.
 "My VPN connection keeps dropping, how can I fix it? (case 2)","Select the corporate Wi-Fi SSID, enter the provided credentials, and accept security certificates."
+```
 
 2️⃣ Fine-Tune with LoRA/QLoRA (via Unsloth)
 - Applied LoRA and QLoRA with quantization for efficiency
@@ -110,3 +111,4 @@ A Colab Notebook is provided in this repo to:
 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
