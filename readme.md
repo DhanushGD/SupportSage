@@ -117,11 +117,12 @@ A Colab Notebook is provided in this repo to:
 
 ✅ Inference Result:
 
-![Inference](sagemaker-inference.png)
+![Inference](screenshots/Inference.png)
 
 ## 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
