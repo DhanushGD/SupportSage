@@ -119,9 +119,14 @@ A Colab Notebook is provided in this repo to:
 
 ![Inference](screenshots/Inference.png)
 
+✅ Inference Result:
+
+![Directory structure](screenshots/directory.png)
+
 ## 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
