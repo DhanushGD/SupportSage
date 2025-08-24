@@ -56,6 +56,7 @@ How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and c
 
 3️⃣ Evaluate Model
 - Evaluation metrics tracked:
+  
 | Metric     | Value       |
 | ---------- | ----------- |
 | BLEU       | **0.37774** |
@@ -80,11 +81,11 @@ How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and c
 📓 Colab Notebook
 
 A Colab Notebook is provided in this repo to:
-✅ Fine-tune TinyLlama with LoRA/QLoRA and Unsloth
-✅ Log metrics with Weights & Biases
-✅ Upload trained model to Amazon S3
-✅ Deploy in AWS SageMaker
-✅ Evaluate metrics (BLEU, ROUGE, Perplexity)
+- ✅ Fine-tune TinyLlama with LoRA/QLoRA and Unsloth
+- ✅ Log metrics with Weights & Biases
+- ✅ Upload trained model to Amazon S3
+- ✅ Deploy in AWS SageMaker
+- ✅ Evaluate metrics (BLEU, ROUGE, Perplexity)
 
 🔬 Proof-of-Concept (PoC) Metrics
 
@@ -100,7 +101,7 @@ A Colab Notebook is provided in this repo to:
 
 ✅ GPU Utilization:
 
-![GPU Usage](screenshots/GPU usage.png)
+![GPU Usage](screenshots/GPU_usage.png)
 
 ✅ S3 Upload:
 
@@ -115,6 +116,7 @@ A Colab Notebook is provided in this repo to:
 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
