@@ -105,7 +105,7 @@ A Colab Notebook is provided in this repo to:
 
 ✅ S3 Upload:
 
-![S3 Files]screenshots/AWS_S.png)
+![S3 Files](screenshots/AWS_S.png)
 
 ✅ AWS cloudwatch logs:
 
@@ -122,6 +122,7 @@ A Colab Notebook is provided in this repo to:
 ## 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
