@@ -64,7 +64,7 @@ How do I connect to the office Wi-Fi? (case 1),Open the antivirus software and c
 | ROUGE-2    | **0.0119**  |
 | ROUGE-L    | **0.09184** |
 
-![Evaluation Metrics](eval.png)
+![Evaluation Metrics](screenshots/eval.png)
 
 4️⃣ Upload to Amazon S3
 - Saved fine-tuned model weights to Google Drive
@@ -89,21 +89,21 @@ A Colab Notebook is provided in this repo to:
 
 ![W&B Logs](screenshots/Training1.png)
 
-![W&B Logs](training2.png)
+![W&B Logs](screenshots/training2.png)
 
 ✅ Evaluation Metrics:
 
-![W&B Eval](eval.png)
+![W&B Eval](screenshots/eval.png)
 
 ✅ GPU Utilization:
 
-![GPU Usage](GPU usage.png)
+![GPU Usage](screenshots/GPU usage.png)
 
 ✅ S3 Upload:
-![S3 Files](s3-upload.png)
+![S3 Files]screenshots/S3.png)
 
 ✅ SageMaker Deployment:
-![SageMaker](sagemaker-deploy.png)
+![SageMaker](screenshots/AWS_sagemaker.png)
 
 ✅ Inference Result:
 ![Inference](sagemaker-inference.png)
@@ -111,4 +111,5 @@ A Colab Notebook is provided in this repo to:
 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
