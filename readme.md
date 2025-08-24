@@ -105,17 +105,24 @@ A Colab Notebook is provided in this repo to:
 
 ✅ S3 Upload:
 
-![S3 Files]screenshots/S3.png)
+![S3 Files]screenshots/AWS_S3.png)
+
+✅ AWS cloudwatch logs:
+
+![Cloudwatch](screenshots/AWS_cloudwatch_logs.png)
 
 ✅ SageMaker Deployment:
+
 ![SageMaker](screenshots/AWS_sagemaker.png)
 
 ✅ Inference Result:
+
 ![Inference](sagemaker-inference.png)
 
 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
