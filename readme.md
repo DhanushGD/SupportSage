@@ -120,12 +120,14 @@ A Colab Notebook is provided in this repo to:
 ![Inference](screenshots/Inference.png)
 
 ✅ Inference Result:
+We can able to access the model in this URL - [https://runtime.sagemaker.us-east-1.amazonaws.com/endpoints/tinyllama-it-support-endpoint-merged/invocations](url)
 
 ![Directory structure](screenshots/directory.png)
 
 ## 📓 Contributing
 
 - Feel free to fork this repository, make improvements, or submit issues for bugs or enhancements. Contributions are always welcome!
+
 
 
 
